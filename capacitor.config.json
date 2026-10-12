@@ -1,0 +1,8 @@
+{
+  "appId": "dz.ligueconstantine.app",
+  "appName": "BK FOOT",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
